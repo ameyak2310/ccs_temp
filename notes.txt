@@ -1,0 +1,3 @@
+pandas tutorials: https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=7X-zYsAnWAiptws4
+ALE Plots: https://christophm.github.io/interpretable-ml-book/ale.html
+Stats Model library : https://www.statsmodels.org/stable/regression.html
